@@ -1,0 +1,22 @@
+h1 {
+font-family:Arian,Helvetica;san-serif;
+color:red;
+}
+body {
+background-color:plum;
+}
+p {
+font-family:Arian,Helvetica,san-serif
+color:blue;
+}
+ul {
+font-family:Arian,Helvetica,san-serif;
+color:blue;
+}
+strong {
+font-family:Arian,Helvetica,san-serif;
+color:blue;
+}
+button {
+background-color:green;
+}
